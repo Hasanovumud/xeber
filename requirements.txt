@@ -1,0 +1,4 @@
+aiogram
+feedparser
+aiohttp
+beautifulsoup4
